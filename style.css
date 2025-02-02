@@ -1,0 +1,187 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    height:200vh;
+    width: 100vw;
+}
+
+#home{
+    width:100vw;
+    height: 80vh;
+    background: url(vortex-waves-spectrum-razer-colorful-neon-3840x2160-1404.png) no-repeat;
+    background-size:1600px 700px;
+    /* position: sticky; */
+    /* top:0; */
+    /* overflow: visible; */
+}
+.hero1{
+    height:25px;
+    background-color: rgb(0, 0, 0);
+    /* border-radius: 50%; */
+}
+.navlist1{
+    /* position:fixed; */
+    width:40vw;
+    display:flex;
+    list-style: none;
+    justify-content:space-around ;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.hero2{
+    height:30px;
+}
+.navlist2{
+    /* position:fixed; */
+    width:100vw;
+    display:grid;
+    list-style: none;
+    grid-template-columns: 0.1fr 0.18fr 0.12fr 0.7fr 0.3fr 0.1fr;
+}
+
+.herotag{
+    color:white;
+    padding:160px;
+}
+
+.insidehero{
+    display:grid;
+    grid-template-columns: 0.9fr 0.2fr;
+}
+#Custom-BuiltPc{
+    background-color: white;
+}
+#laptops{
+    background-color: rgb(255, 255, 255);
+}
+.flexing{
+    display:flex;
+    justify-content:space-around
+}
+.flexing2{
+    display:flex;
+    justify-content:space-around
+}
+.pc1{
+    width:300px;
+    height:400px;
+    background-color:rgb(192, 191, 197);
+}
+.pc2{
+    width:300px;
+    height:400px;
+    background-color:rgb(192, 191, 197);
+
+}
+.pc3{
+    width:300px;
+    height:400px;
+    background-color:rgb(192, 191, 197);
+
+}
+.pc4{
+    width:300px;
+    height:400px;
+    background-color:rgb(192, 191, 197);
+
+}
+
+.laptop1{
+    width:300px;
+    height:400px;
+    background-color:rgb(192, 191, 197);
+}
+.laptop2{
+    width:300px;
+    height:400px;
+    background-color:rgb(192, 191, 197);
+}
+.laptop3{
+    width:300px;
+    height:400px;
+    background-color:rgb(192, 191, 197);
+}
+.laptop4{
+    width:300px;
+    height:400px;
+    background-color:rgb(192, 191, 197);
+}
+#laptops{
+    height: 650px;
+}
+
+.imgpc1{
+    transition: width 1s, height 1s;
+}
+.imgpc2{
+    transition: width 1s, height 1s;
+}
+.imgpc3{
+    transition: width 1s, height 1s;
+}
+.imgpc4{
+    transition: width 1s, height 1s;
+}
+
+.imgpc1:hover{
+    width:330px;
+    height: 330px;;
+}
+.imgpc2:hover{
+    width:330px;
+    height: 330px;;
+}
+.imgpc3:hover{
+    width:330px;
+    height: 330px;;
+}
+.imgpc4:hover{
+    width:330px;
+    height: 330px;;
+}
+
+.imglap1{
+    transition: width 1s, height 1s;
+}
+.imglap2{
+    transition: width 1s, height 1s;
+}
+.imglap3{
+    transition: width 1s, height 1s;
+}
+.imglap4{
+    transition: width 1s, height 1s;
+}
+
+.imglap1:hover{
+    width:330px;
+    height: 330px;;
+}
+.imglap2:hover{
+    width:330px;
+    height: 330px;;
+}
+.imglap3:hover{
+    width:330px;
+    height: 330px;;
+}
+.imglap4:hover{
+    width:330px;
+    height: 330px;;
+}
+
+.footers1{
+    background-color: rgb(255, 140, 0);
+    height: 200px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
